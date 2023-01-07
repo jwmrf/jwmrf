@@ -1,7 +1,7 @@
 ### Wilson Filho (jwmrf) 👋
   <a href="https://www.linkedin.com/in/jose-wilson-madruga-rezende-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.npmjs.com/~wilsonfilho)" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=red" target="_blank"></a> 
-   <a href="[https://www.linkedin.com/in/jose-wilson-madruga-rezende-filho/](https://medium.com/@jwmrf)" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a> 
+    <a href="https://www.npmjs.com/~wilsonfilho" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=red" target="_blank"></a> 
+   <a href="https://medium.com/@jwmrf" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwmrf&langs_count=7&hide=html,css&layout=compact&theme=vue-dark" alt="jwmrf" /></p>
 
