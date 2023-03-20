@@ -15,7 +15,7 @@ NPM Download Statistics for Wilson Filho Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                     | Downloads |
 | ------------------------------------------------------------------------ | --------- |
-| **Total**                                                                | **2,806** |
+| **Total**                                                                | **5,220** |
 | [cover-image-crawler](https://www.npmjs.com/package/cover-image-crawler) | 3,168     |
 | [array-concat-sum](https://www.npmjs.com/package/array-concat-sum)       | 670       |
 | [multi-str-replace](https://www.npmjs.com/package/multi-str-replace)     | 610       |
